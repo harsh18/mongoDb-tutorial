@@ -1,0 +1,24 @@
+{
+  "name": "mongoDb-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harsh18/mongoDb-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh18/mongoDb-tutorial/issues"
+  },
+  "homepage": "https://github.com/harsh18/mongoDb-tutorial",
+  "devDependencies": {
+    "consolidate": "^0.10.0",
+    "express": "^4.11.0",
+    "mongodb": "^1.4.28"
+  }
+}
